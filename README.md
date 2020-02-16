@@ -14,4 +14,12 @@ There are two images provided already, you can test it out by first constructing
 >pyramidlst = MakePyramid(image, 90)<br/>
 >result = FindTemplate(pyramidlst, template_im, 0.618)
 
+### Example
+
+Example: 
+<br/>
+<br/>
+![Example](result.jpg)
+
+
 
