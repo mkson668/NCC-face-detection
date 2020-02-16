@@ -16,10 +16,11 @@ There are two images provided already, you can test it out by first constructing
 
 ### Example
 
-Example: 
-<br/>
-<br/>
-![Example](result.jpg)
+Final result with threshhold of 0.8:<br/>
+![Result](result.jpg)
+
+With the following image acting as the template:<br/>
+![Template](template.jpg)
 
 
 
